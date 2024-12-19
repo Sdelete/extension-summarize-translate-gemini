@@ -1,0 +1,107 @@
+{
+    "extension_name": {
+        "message": "Podsumuj i przetłumacz za pomocą Gemini"
+    },
+    "extension_description": {
+        "message": "Podsumowanie i tłumaczenie stron internetowych. Wykorzystano Gemini jako backend."
+    },
+    "popup_button_run": {
+        "message": "Uruchom ponownie"
+    },
+    "popup_button_results": {
+        "message": "Otwórz w nowej karcie"
+    },
+    "popup_button_options": {
+        "message": "Strona konfiuracyjna"
+    },
+    "popup_summarizing": {
+        "message": "Podsumowywanie" 
+    },
+    "popup_summarizing_captions": {
+        "message": "Podsumowywanie opisów"
+    },
+    "popup_summarizing_image": {
+        "message": "Podsumowywanie obrazu"
+    },
+    "popup_translating": {
+        "message": "Tłumaczenie"
+    },
+    "popup_translating_captions": {
+        "message": "Tłumaczenie opisów"
+    },
+    "popup_translating_image": {
+        "message": "Tłumaczenie obrazu"
+    },
+    "popup_processing": {
+        "message": "Przetwarzanie"
+    },
+    "popup_prompt_blocked": {
+        "message": "Zapytanie zostało zablokowane."
+    },
+    "popup_response_blocked": {
+        "message": "Odpowiedź została zablokowana."
+    },
+    "popup_unexpected_response": {
+        "message": "Wystąpił nieznany błąd. Sprawdź dziennik konsoli."
+    },
+    "popup_miscellaneous_error": {
+        "message": "Nie można podsumować ani przetłumaczyć tej strony."
+    },
+    "results_title": {
+        "message": "Wyniki - Podsumuj i przetłumacz za pomocą Gemini"
+    },
+    "results_button_copy": {
+        "message": "Kopiuj"
+    },
+    "results_copied": {
+        "message": "Skopiowano."
+    },
+    "options_title": {
+        "message": "Opcje - Podsumuj i przetłumacz za pomocą Gemini"
+    },
+    "options_apikey": {
+        "message": "Klucz API Gemini"
+    },
+    "options_apikey_hint": {
+        "message": "Klucz API Gemini można uzyskać na następującej stronie."
+    },
+    "options_model": {
+        "message": "Model językowy"
+    },
+    "options_language": {
+        "message": "Podsumuj w / Przetłumacz na"
+    },
+    "options_language_notes": {
+        "message": "Ustawienie języka jest ignorowane w akcjach niestandardowych."
+    },
+    "options_no_text_action": {
+        "message": "Gdy nie zaznaczono tekstu, wykonaj następującą czynność"
+    },
+    "options_no_text_summarize": {
+        "message": "Podsumuj (domyślnie)"
+    },
+    "options_no_text_translate": {
+        "message": "Przetłumacz"
+    },
+    "options_no_text_custom": {
+        "message": "Akcja niestandardowa"
+    },
+    "options_text_action": {
+        "message": "Gdy tekst jest zaznaczony, wykonaj następującą czynność"
+    },
+    "options_text_summarize": {
+        "message": "Podsumuj"
+    },
+    "options_text_translate": {
+        "message": "Przetłumacz (domyślnie)"
+    },
+    "options_text_custom": {
+        "message": "Akcja niestandardowa"
+    },
+    "options_button_save": {
+        "message": "Zapisz opcje"
+    },
+    "options_saved": {
+        "message": "Zapisano."
+    }
+}
