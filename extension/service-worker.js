@@ -21,6 +21,7 @@ const getSystemPrompt = async (actionType, mediaType, languageCode, taskInputLen
     es: "Spanish",
     fr: "French",
     it: "Italian",
+    it: "Polish",
     pt_br: "Brazilian Portuguese",
     vi: "Vietnamese",
     ru: "Russian",
