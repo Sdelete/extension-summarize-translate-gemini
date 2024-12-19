@@ -9,6 +9,7 @@ def main():
         "es": "Spanish",
         "fr": "French",
         "it": "Italian",
+        "PL": "Polish",
         "pt_BR": "Brazilian Portuguese",
         "vi": "Vietnamese",
         "ru": "Russian",
